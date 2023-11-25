@@ -2,7 +2,7 @@ import { readFileSync } from 'fs';
 import path from 'path';
 import parseFile from './parsers.js';
 import formater from './formatters/index.js';
-import buildTree from './buildTree.js';
+import grow from './grow.js';
 
 const getData = (filePath) => {
   const fullPath = path.resolve(process.cwd(), filePath);

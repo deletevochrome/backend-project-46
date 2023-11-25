@@ -2,7 +2,7 @@
   "name": "@hexlet/code",
   "type": "module",
   "version": "1.0.0",
-  "description": "[![Actions Status](https://github.com/petrovanna/backend-project-46/workflows/hexlet-check/badge.svg)](https://github.com/petrovanna/backend-project-46/actions)",
+  "description": "[![Actions Status](https://github.com/deletevochrome/backend-project-46/workflows/hexlet-check/badge.svg)](https://github.com/deletevochrome/backend-project-46/actions)",
   "main": "src/index.js",
   "bin": {
     "gendiff": "bin/gendiff.js"
@@ -12,14 +12,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/petrovanna/backend-project-46.git"
+    "url": "git+https://github.com/deletevochrome/backend-project-46.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/petrovanna/backend-project-46/issues"
+    "url": "https://github.com/deletevochrome/backend-project-46/issues"
   },
-  "homepage": "https://github.com/petrovanna/backend-project-46#readme",
+  "homepage": "https://github.com/deletevochrome/backend-project-46#rdme",
   "dependencies": {
     "commander": "^9.4.0",
     "js-yaml": "^4.1.0",
