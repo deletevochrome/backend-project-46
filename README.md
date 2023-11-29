@@ -1,6 +1,6 @@
 ### Hexlet tests and linter status:
 [![Actions Status](https://github.com/deletevochrome/backend-project-46/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/deletevochrome/backend-project-46/actions)
-[![Lint / Test](https://github.com/deletevochrome/backend-project-46/actions/workflows/test.yml/badge.svg)](https://github.com/maxsmrnv/backend-project-46/actions/workflows/test.yml)
+[![Lint / Test](https://github.com/deletevochrome/backend-project-46/actions/workflows/test.yml/badge.svg)](https://github.com/deletevochrome/backend-project-46/actions/workflows/test.yml)
 [![Maintainability](https://api.codeclimate.com/v1/badges/e220e2f6ff6355daf7f9/maintainability)](https://codeclimate.com/github/deletevochrome/backend-project-46/maintainability)
 [![Test Coverage](https://api.codeclimate.com/v1/badges/e220e2f6ff6355daf7f9/test_coverage)](https://codeclimate.com/github/deletevochrome/backend-project-46/test_coverage)
 
