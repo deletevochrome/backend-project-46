@@ -9,7 +9,7 @@ const getKeys = (obj1, obj2) => {
   return sortedKeys;
 };
 
-const buildTree = (obj1, obj2) => {
+const grow = (obj1, obj2) => {
   const keys = getKeys(obj1, obj2);
 
   const tree = keys.map((key) => {
@@ -32,4 +32,4 @@ const buildTree = (obj1, obj2) => {
 
   return tree;
 };
-export default buildTree;
+export default grow;

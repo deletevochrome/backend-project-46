@@ -27,5 +27,5 @@ export default (filepath1, filepath2, formatName) => {
   const parseData1 = parseFile(extData1, data1);
   const parseData2 = parseFile(extData2, data2);
 
-  return formater(buildTree(parseData1, parseData2), formatName);
+  return formater(grow(parseData1, parseData2), formatName);
 };
