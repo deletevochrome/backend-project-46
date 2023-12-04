@@ -1,4 +1,4 @@
-### Hexlet tests and linter status:
+### Tests and status:
 [![Actions Status](https://github.com/deletevochrome/backend-project-46/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/deletevochrome/backend-project-46/actions)
 [![Maintainability](https://api.codeclimate.com/v1/badges/e220e2f6ff6355daf7f9/maintainability)](https://codeclimate.com/github/deletevochrome/backend-project-46/maintainability)
 [![Test Coverage](https://api.codeclimate.com/v1/badges/e220e2f6ff6355daf7f9/test_coverage)](https://codeclimate.com/github/deletevochrome/backend-project-46/test_coverage)
