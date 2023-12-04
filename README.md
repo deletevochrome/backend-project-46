@@ -28,3 +28,8 @@ Usage example:
   gendiff ./__fixtures__/file1.json ./__fixtures__/file2.json -f json
 
 ```
+### Instalation:
+```
+1. git clone git@github.com:fra1m/backend-project-46.git
+2. make install
+```
