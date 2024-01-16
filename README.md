@@ -29,6 +29,6 @@ Usage example:
 ```
 ### Instalation:
 ```
-1. git clone git@github.com:fra1m/backend-project-46.git
+1. git clone git@github.com:deletevochrome/backend-project-46.git
 2. make install
 ```
